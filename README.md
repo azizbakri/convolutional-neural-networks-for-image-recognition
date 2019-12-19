@@ -6,7 +6,7 @@ This project contains one file where you can find the code for model and a datas
 ## Prerequisites
 * A good GPU for running the model. Incase you're runing it on a CPU, it might be better to make some changes in parameters such as images size and removing convolutional layers and neural network layers.   
 
-**Note: Depending on the dataset that the model is trained with, it can be used for detecting anything such as a dog or cat, a healthy brain or not... The code can also be modified to generate more than two outcomes.
+**Note:** Depending on the dataset that the model is trained with, it can be used for detecting anything such as a dog or cat, a healthy brain or not... The code can also be modified to generate more than two outcomes.
 
 ## Built With
 Python
